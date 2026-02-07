@@ -120,38 +120,9 @@ const samuel: Developer = {
 
 <br/>
 
-<!-- GitHub Stats -->
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="28"> GitHub Analytics
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/notoriussss/notoriussss/main/github-metrics.svg" alt="Metrics" width="100%">
-  <br/>
-  <sub>⚠️ Run the GitHub Action 'Metrics' to generate this graph</sub>
-</div>
 
-<br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notoriussss&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=notoriussss&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&area_color=6366F1&hide_border=true" alt="Activity Graph"/>
-</div>
-
-<br/>
-
-<!-- Trophies -->
-## <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUojM8/giphy.gif" width="28"> GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=notoriussss&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
-</div>
-
-<br/>
 
 <!-- Quote -->
 ## 💭 Dev Quote of the Day
