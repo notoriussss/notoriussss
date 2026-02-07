@@ -124,8 +124,9 @@ const samuel: Developer = {
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="28"> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=notoriussss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&ring_color=6366F1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notoriussss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9"/>
+  <img src="https://raw.githubusercontent.com/notoriussss/notoriussss/main/github-metrics.svg" alt="Metrics" width="100%">
+  <br/>
+  <sub>⚠️ Run the GitHub Action 'Metrics' to generate this graph</sub>
 </div>
 
 <br/>
