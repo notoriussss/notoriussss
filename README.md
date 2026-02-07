@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Samuel%20Guzmán&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Computer%20Engineering%20Student&descAlignY=52&descSize=18"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Welcome+to+my+digital+space+%F0%9F%9A%80;Building+solutions+with+clean+architecture;Hackathon+Winner+%F0%9F%8F%86+%7C+Team+Leader" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Welcome+to+my+digital+space+%F0%9F%9A%80;Building+solutions+with+clean+architecture;Perfectionist+%7C+Team+Leader" alt="Typing SVG" /></a>
 
 <!-- Profile Views & Followers -->
 <br/>
@@ -26,11 +26,12 @@ const samuel: Developer = {
         "Clean Architecture Enthusiast",
         "Problem Solver with Logic-First Approach", 
         "Team Leader & Collaborative Developer",
-        "Hackathon Champion 🏆"
+        "Hackathon Participant 🚀",
+        "Perfectionist by Nature ✨"
     ],
     
     currentlyLearning: "Always exploring new technologies",
-    funFact: "I turn coffee into code and ideas into reality ☕→💻"
+    funFact: "I turn Coca-Cola into code and ideas into reality 🥤→💻"
 };
 ```
 
