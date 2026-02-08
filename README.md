@@ -27,7 +27,7 @@ const samuel: Developer = {
         "Problem Solver with Logic-First Approach", 
         "Team Leader & Collaborative Developer",
         "Hackathon Participant 🚀",
-        "Perfectionist by Nature ✨"
+        "Perfectionist"
     ],
     
     currentlyLearning: "Always exploring new technologies",
